@@ -2,6 +2,8 @@
 
 This project enables remote printing from any device on the same network to a non-smart printer (e.g., HP LaserJet Professional P1102). It allows users to upload files (PDF, JPG, JPEG, PNG) through a web interface and send them to the printer.
 
+![Web Interface for File Upload](./explain.png)
+
 ## Features
 - Accepts file uploads in **PDF**, **JPG**, **JPEG**, and **PNG** formats.
 - Automatically processes the file for printing.
